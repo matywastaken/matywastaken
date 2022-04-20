@@ -3,7 +3,7 @@
 
 - 👀 Me interesa el progreso de la comunidad FOSS.
 - 🌱 Actualmente me sigo formando en seguridad informática, tanto via cursos como por mi cuenta.
-- 📄 Podes ver mi CV en el siguiente [link](https://drive.google.com/file/d/1sTvj2LyM9F_UqkUkGC0RWUXXK6ElFL63/view?usp=sharing).
+- 📄 Podes ver mi CV en el siguiente [link](https://drive.google.com/file/d/16cOLQ0CH7lP_FHCHmcVhBCcTbH7Ue8Qf/view?usp=sharing).
 - ⚡ Fun fact: Hago distro-hopping bastante seguido!
 
 <h3 align="left">No suelo usar redes sociales, pero las mias son:</h3>
