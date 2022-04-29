@@ -1,8 +1,8 @@
 <h1 align="center">Hola 👋, soy Matías</h1>
-<h3 align="center">Un estudiante de seguridad informática en Argentina</h3>
+<h3 align="center">Un estudiante de informática en Argentina</h3>
 
 - 👀 Me interesa el progreso de la comunidad FOSS.
-- 🌱 Actualmente me sigo formando en seguridad informática, tanto via cursos como por mi cuenta.
+- 🌱 Actualmente me sigo formando en sistemas, tanto via cursos como por mi cuenta.
 - 📄 Podes ver mi CV en el siguiente [link](https://drive.google.com/file/d/16cOLQ0CH7lP_FHCHmcVhBCcTbH7Ue8Qf/view?usp=sharing).
 - ⚡ Fun fact: Hago distro-hopping bastante seguido!
 
