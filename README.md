@@ -1,15 +1,12 @@
 <h1 align="center">Hola 👋, soy Matías</h1>
-<h3 align="center">Un estudiante de informática en Argentina</h3>
+<h3 align="center">Un estudiante de Análisis de Sistemas en Argentina</h3>
 
 - 👀 Me interesa el progreso de la comunidad FOSS.
 - 🌱 Actualmente me sigo formando en sistemas, tanto via cursos como por mi cuenta.
-- 📄 Podes ver mi CV en el siguiente [link](https://drive.google.com/file/d/16cOLQ0CH7lP_FHCHmcVhBCcTbH7Ue8Qf/view?usp=sharing).
-- ⚡ Fun fact: Hago distro-hopping bastante seguido!
 
 <h3 align="left">No suelo usar redes sociales, pero las mias son:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/matiasles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="matiasles" height="30" width="40" /></a>
-<a href="https://instagram.com/matiasles" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="matiasles" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Lenguajes y herramientas:</h3>
